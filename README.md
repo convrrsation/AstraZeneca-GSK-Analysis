@@ -1,7 +1,7 @@
 # AstraZeneca-GSK-Analysis
 # AstraZeneca vs GSK: Risk and Return Analysis
 
-**Question:** Which of AstraZeneca and GSK gave better returns relative to risk from 1st Aug 2022 - 1st Aug 2026?
+**Question:** Which out of AstraZeneca and GSK gave better returns relative to risk from 1st Aug 2022 - 1st Aug 2026?
 
 **Method:** Downloaded daily adjusted prices using yfinance, calculated daily returns in pandas, and computed total return, annualised return, annualised volatility and correlation.
 
